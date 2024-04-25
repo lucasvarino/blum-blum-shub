@@ -1,4 +1,5 @@
 // Blum-blum shub
+// Aluno: Lucas de Oliveira Varino - 202165090AC
 
 use rand::Rng;
 
